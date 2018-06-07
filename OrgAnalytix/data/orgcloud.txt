@@ -1,0 +1,144 @@
+In every organization, people build informal “go-to” teams.
+They rely on that one person who always knows “how we
+do things here.” They find someone in finance who can
+answer any budget question. These spontaneous, critically
+important connections are the lifeblood of organizations
+worldwide.
+Beyond organizations, the world has become more
+connected: Fifty percent of the World’s population uses
+mobile technology and 40 percent is connected to the
+internet (GSMA: The Mobile Economy 2015). As the world
+becomes more connected, so too do organizations, but
+not always in predictable ways or between the people and
+parts of an organization that could gain the most from
+being more connected. Understanding where these critical
+connections exist—or should exist—is essential for all
+aspects of effective organizational design.
+See beyond the organization chart
+Confusing job titles, expansive org charts, and ambiguous
+role descriptions can cloud anyone’s understanding of how
+businesses actually operate. Trying to force collaboration
+through matrixed or double-solid-line reporting, “two in a
+box,” and other formal mechanisms can’t match the natural
+networks that form when people find co-workers who
+make their work better, easier, or simply more satisfying.
+Instead of stimulating fruitful collaboration, companies can
+become bloated, misaligned, and paralyzed by leadership
+politics, when they simply lack insight into the way
+information is actually retained and disseminated through
+employee networks.
+Visualizing and analyzing formal and informal relationships
+in your organization can help you shape business strategy
+that maximizes organic exchange of information, thereby
+helping your business become more sustainable and
+effective.
+Role definition: ONA shows where work starts,
+stalls, and stops. This can provide valuable insight into
+the current and future state of decision making and
+governance in your organization—and makes it easier to
+see how to integrate the right people into the flow. For
+example, during M&A activity, inaccurate or differently
+defined job titles can make roles seem different when
+they are actually the same. Through ONA, organizations
+can help identify role redundancy within a network,
+potentially freeing talent to fill more value-added
+activities.
+Potential Bottom-line benefits
+Evolving trends in technological innovation, human
+connectivity, business dynamics, and globalization are
+changing the way people connect, collaborate, and
+make decisions in the workplace. Using ONA to inform
+organization design efforts can help you:
+Increase operational effectiveness by building an
+organization that is structured to increase collaboration
+and exchange of information between the right people.
+Transform organizations in a smarter way by identifying
+formal and informal leaders who can be counted on to
+facilitate change and help accelerate the realization of
+transformation benefits.
+Use talent more effectively by minimizing role
+confusion and redundancy.
+The savvy executive can have the depth of analysis required
+to accelerate growth, manage change, and create agile
+networks of teams for sustained competitive advantage.
+Network visualizations
+There are several tools that allow managers to visually depict their employee networks. Most of the tools are built specifically for researchers and academics who study Network theory, but are relatively inexpensive to use, as long as the leaders are well-versed on how to capture the information, feed it into the tool in the correct formats, and understand how to "read" and translate the network graphs into business decisions.
+
+For the vast majority of business leaders who are not conversant in the nuances of network theory, there are various consultants who can educate the leaders on ONA and its uses and applications, such as Rob Cross or even bigger consulting companies such as Deloitte's Human Capital practice.[6] There are a number of start-ups in this growing area as well, such as HOW4, Complete Coherence, LEDR, OrgAnalytix and Polinode which have visualization tools combined with light consulting/analysis service which allows managers to access the Network analytics without having to hire a team of highly paid consultants and PhDs.
+
+Diversity and Inclusivity Index
+One of the major pain points facing companies today is understanding how to motivate and retain top talent in the company who are from diverse backgrounds, race, or ethnicity. There are several tools to ensure diverse talent is hired, or recruited, however, very few solutions to help leaders ensure their newly hired diverse workforce is consistently engaged, integrated, and included within the team. Leaders depend on their team's inclusive culture and team dynamics to fill this gap, however, building and maintaining an inclusive culture is laborious task that requires constant vigilance and tracking. This is where an ONA tool helps managers develop and track the level of inclusion within their teams, but also proactively highlights gaps and vulnerabilities within the team. ONA can track how many employees have been hired by the company and also how the interact with each other.[7] This ability to track employee relationships gives leaders the data-driven transparency they need to unsure their company culture is in fact being deployed and represented accurately across all layers of their organization.
+
+Innovation Gauge
+Several recent studies and research has highlighted that 'Psychological Safety' is the marker for an innovative team. This has been studied and published first by Google, in their Project Aristotle work[8] as well as highlighted in New York Times[9] and other research publications.[10] Amy Edmondson is the preeminent scholar and researcher in this field who has worked across various industries to identify the benefits and even the characteristics of 'Psychological Safety' in teams.
+
+ONA is now increasingly being used in this context to analyze the relationships developed within a given team, and for understanding how that team works as a unit to create this psychological safety for its members. This technique is more thorough than the traditional surveys, and can more objectively measure the emotional impact that colleague have on each other, and help leaders understand whether there are sufficient connections that can build the type of positive emotions[11] necessary to create innovative teams.
+
+Employee Engagement
+Engagement surveys and other such culture surveys have become a mainstay of the workplace. There are several options for such surveys, anywhere from comprehensive surveys such as those done by Gartner or CEB, or real-time pulse surveys done by TINYpulse. However, one of the largest complaints form such surveys are that once managers see the results, often the aggregated sentiments of their employees, they are unsure of next steps and actions. Organizational Network Analysis, when combined with such engagement surveys, however change the way that leaders use and leverage these results. Because ONA allows managers to see the context behind the sentiments, they can actually understand how to correct or sustain these results. For example, if a company's engagement survey said 30% of the employees felt they are inadequately trained for their jobs, a manager would be perhaps inclined to either do nothing, or invest more in comprehensive training programs. However, doing an ONA alongside this might reveal to managers that employees are unhappy with training because they have limited access to institutional knowledge at the company. Then, instead of a training program, managers might simply work on ensuring their top knowledge hubs share their knowledge broadly, and have a longer, more sustainable improvement to the team's level of information and training.
+In this introductory, self-paced course, you will learn multiple theories of organizational behavior and apply them to actual cases of organizational change.It is hard to imagine living in modern society without participating in or interacting with organizations. The ubiquity and variability of organizations means there is ample room for complexity and confusion in the organizational challenges we regularly face. Through this course, students will consider cases describing various organizational struggles: school systems and politicians attempting to implement education reforms; government administrators dealing with an international crisis; technology firms trying to create a company ethos that sustains worker commitment; and even two universities trying to gain international standing by performing a merger.Each case is full of details and complexity. So how do we make sense of organizations and the challenges they face, let alone develop means of managing them in desired directions? While every detail can matter, some matter more than others. This is why we rely on organizational theories -- to focus our attention and draw out relevant features in a sensible way.Through this course you will come to see that there is nothing more practical than a good theory.Every week, youll learn a different organizational theory, and it will become a lens through which you can interpret concrete organizational situations. Armed with a toolset of theories, you will then be able to systematically identify important features of an organization and the events transforming it – and use the theories to predict which actions will best redirect the organization in a desired direction
+To gauge the impact of diversity and inclusion efforts, companies typically track metrics on the hiring, attrition, promotion, and composition of the current workforce. While such statistics are useful, they don’t provide a fully accurate picture. In reality, diversity and inclusion are not merely the number of nonwhite male employees you have. Rather, a truly inclusive organization contains a diverse cross-section of employees who actually interact with one another. So how do you measure this? A venerable management tool — organizational network analysis (ONA) — can result in powerful visual representations of the way inclusion actually plays out in your organization.
+
+Recently, a large U.S.-based professional services firm we worked with unexpectedly learned the power of such pictures to map gender diversity. Using ONA, the company had originally been looking to identify influential experts in its workforce. To do this, it conducted a short, company-wide survey that was designed to collect network data. The survey, known as a name generator, involved several questions that provided information about a particular network relationship. For example, a decision-making network is identified by asking “Who do you go to most frequently to get help making an important decision?” And a trust network is identified by asking “Who in this organization do you believe has your back when things are tough?”
+
+The people named were then asked to identify people they trust and go to for help with decisions. This allowed the company to see whether the relationships are mutual.
+
+As the firm mapped this information, it made an unsettling discovery: Despite the company’s efforts to support diversity and inclusion, women employees were less likely to be involved in decision making and innovation than men. This finding suggested the company might be suffering the effects of unconscious bias among its staff, with employees subconsciously prioritizing the views and opinions of employees of the same gender as themselves.
+
+Before digging into the findings, it’s important to note some basic baseline information about the gender makeup of the firm: men outnumbered women five to one in terms of total population, and men represented 88% of the company’s partners. Even given these lopsided numbers, however, it turned out that women had fewer ties to their male colleagues than would normally be expected from a company with a comparable gender breakdown. They were more likely than men to be isolated within their teams or on the network’s periphery. This network map, where nodes are sized by “popularity” (number of incoming ties), provided the firm’s leaders with striking visual evidence of the problem.
+
+W170628_YAMKOVENKO_MAPPINGEMPLOYEE
+
+
+While it’s difficult to say with precision what an “ideal” network might look like when it comes to gender diversity, a healthier one would show women having a similar number of connections as men, and show fewer women isolated or on the periphery. Moreover, you would hope to see few areas of the network that were without women altogether. At the professional services firm, the analysis found that men were 5.6 times more likely to be connected to male colleagues than to female colleagues. And since the organization has far more men than women, it meant that women had far fewer connections overall.
+
+You might be asking whether you can attribute the discrepancy in connections to the lower number of women at the company. The answer is no, because each person, regardless of gender, can theoretically have any number of ties to people of the opposite gender. In addition, the analysis took into account the total number of men and women, adjusted for differences in counts, and then used statistical techniques to determine the extent to which the connections existed disproportionately between individuals of the same gender. Indeed, it is the magnitude of the difference between the expected number of connections and the actual number that signals you likely have a problem.
+
+Moving beyond the individual level, patterns at the professional services firm suggested that unconscious gender bias appeared also at the team level. Consider this map of one team’s decision-making connections, which reflected many teams across the organization.
+
+W170628_YAMKOVENKO_MAPPINGONE
+
+
+The largest central node represents a man, and ties exist among most of the men but only one woman (the largest of the three red nodes). And only two of those ties are reciprocated. The other two women on this team do not have any type of incoming ties, suggesting that their participation in the team’s decision-making processes is negligible. This overall lack of integration could be due to any number or reasons, but the bottom line is that such teams aren’t benefiting from the perspectives, experiences, or expertise of their female members.
+
+There are multiple other networks that can be mapped to provide a firm with more information about potential unconscious bias. For instance, the professional services firm mapped these three distinct webs of relations.
+
+W170628_YAMKOVENKO_THREEWAYS
+
+
+In all three networks, large blue nodes represent men, both in the center of the network and on the periphery, although many men are also on the periphery and appear to be isolated. But the more worrying finding is the proportional discrepancy in the number of ties between individuals of the same gender and the number of ties between individuals of the opposite gender.
+
+In fact, a closer look at the data found that the decision-making network had 14% more ties between members of the same gender than would be expected if men and women were connected without considering gender. In addition, the innovation network had 22% more same-gender ties, and the emotional-support network had 27% more same-gender ties.
+
+In the innovation network, women are less central than men, are completely absent from some areas, and tend to have fewer incoming ties — meaning that relatively few people seek them out to discuss new ideas. (An exception is a peripheral cluster of women in the top of the idea-sharing map.) Across the organization, network analysis revealed that individuals were almost four times more likely to share new ideas with colleagues of the same gender and more than twice as likely to discuss important decisions with others of the same gender. Interestingly, in both these networks women had more connections with men than with other women, possibly reflecting where power and influence reside in the organization. Last, in the emotional-support network individuals are more than three times as likely to connect with employees of their own gender.
+
+The business benefits of a diverse workforce are well-known: A 2014 McKinsey study, for example, showed that companies in the top quartile of racial, ethnic, and gender diversity were 35% more likely to earn financial returns above the industry median. But it is important to understand that diversity is not just workforce composition; it is interaction as well. And if employees of different genders, races, and ethnicities aren’t working together, the benefits of diversity may be lost.
+
+Analyzing your employees’ connections can help provide visibility into how diverse your company really is, but acting on the insights provided by ONA is not easy — in this case it involves a fight against ubiquitous conscious and unconscious biases. Leaders of the professional services firm realized that since the issues are not limited to one team or one type of relationship, a broad effort is needed to combat unconscious bias and create a more collaborative, inclusive company. And while the company’s executives would be the first to admit they have not “solved” the company’s challenges of diversity (a claim precious few firms can make), the insights generated by the analysis have uncovered the specific contours of the problem and provided clearer direction for addressing it.
+Over the past decade or so significant restructuring efforts have resulted in organizations with fewer hierarchical levels and more permeable functional and organizational boundaries. While hopefully promoting efficiency and flexibility, a byproduct of these restructuring efforts is that coordination and work increasingly occur through informal networks of relationships rather than through formal reporting structures or prescribed work processes. These seemingly invisible webs have become central to performance and strategy execution. Research shows that appropriate connectivity in networks within organizations can have a substantial impact on performance, learning, and innovation, and benefits also accrue from well-connected networks between organizations.
+
+Organizational network analysis (ONA) can provide an x-ray into the inner workings of an organization — a powerful means of making invisible patterns of information flow and collaboration in strategically important groups visible. For example, we conducted an ONA of executives in the exploration and production division of a large petroleum organization. This group was in the midst of implementing a technology to help transfer knowledge across drilling initiatives and was also interested in assessing their ability as a group to create and share knowledge. As can be seen below, the network analysis revealed a striking contrast between the group’s formal and informal structure.
+
+sna_chart_01
+
+Three important points quickly emerged from the ONA:
+
+First, the ONA identified mid-level managers that were critical in terms of information flow within the group. A particular surprise came from the very central role that Cole played in terms of both overall information flow within the group and being the only point of contact between members of the production division and the rest of the network. If he were hired away, the efficiency of this group as a whole would be significantly impacted as people in the informal network re-established important informational relationships. Simply categorizing various informational requests that Cole received and then allocating ownership of these informational or decision domains to other executives served to both unburden Cole and make the overall network more responsive and robust.
+
+Second, the ONA helped to identify highly peripheral people that essentially represented untapped expertise and underutilized resources for the group. In particular, it became apparent that many of the senior people had become too removed from the day-to-day operations of this group. For example, the most senior person (Jones) was one of the most peripheral in the informal network. This is a common finding. As people move higher within an organization their work begins to entail more administrative tasks that makes them both less accessible and less knowledgeable about the day-to-day work of their subordinates. However, in this case our debrief session indicated that Jones had become too removed and his lack of responsiveness frequently held the entire network back when important decisions needed to be made.
+
+Third, the ONA also demonstrated the extent to which the production division (the sub-group on the top of the diagram) had become separated from the overall network. Several months prior to this analysis these people had been physically moved to a different floor in the building. Upon reviewing the network diagram, many of the executives realized that this physical separation had resulted in loss of a lot of the serendipitous meetings that occurred when they were co-located. Structured meetings were set up to help avoid operational problems the group had been experiencing due to this loss of communication between production and the rest of the network.
+
+Interpreting a Network Diagram
+
+Information collected from social network surveys can be used to create network diagrams that illustrate the relationships between members of a group. The network below reveals information flow within a dispersed new product development team. In this case each member of the team was asked ‘Whom do you turn to for information to get your work done?’ The network has been color-coded to differentiate between team members that are in manufacturing, finance and marketing.
+
+sna_chart_02
+
+Lines and Arrows. The diagram above shows the flow of information within a new-product development team. Each line indicates an information link between two people; arrows represent the direction of the relationship (incoming arrows show that the person is a source of information; outgoing arrows show that the team member seeks information from the linked parties).
+
+Central People. Network diagrams make clear who the most prominent people within a group are. On this team, nine people rely on Paul for information. His colleagues in finance come to him, but so do people in marketing and manufacturing. Paul himself does not reach out to people outside of finance. The diagram alone can’t tell us if Paul’s impact is positive or negative. If the group is overly dependent on him, he may be a bottleneck, slowing the flow of information and holding up decisions. On the other hand, people like Paul often play a very positive role, providing valuable information and holding a group together.
+
+Peripheral People. Some people are only loosely connected to a network; a few may be completely isolated — members in theory but not in practice. In this network, no one goes to Carl for information, and Kevin is out of the loop entirely. As is true with central people, the diagram alone doesn’t say anything about the value of peripheral people. Sometimes such outsiders turn out to be underutilized resources, and integrating them can be critical to a network’s effectiveness and efficiency. Sometimes people are peripheral for good reason; perhaps they are trying to manage work-family balance or are specialists such as research scientists, who need to maintain strong ties to academia. And on occasion people are peripheral because they lack skills, social and otherwise, for the job.
+
+Subgroups. Groups within a network often arise as a product of location, function, hierarchy, tenure, age, or gender. In this case, the team is split by function; very little information is being shared among the three groups. Moreover, connections in marketing and finance are sparse, while the manufacturing subgroup is tightly knit. That can be good or bad. It may be that the manufacturing people have developed communication practices that the team as a whole could use to its benefit. It’s also possible that those people rely on one another so heavily that they are preventing integration. Again, only follow-up interviews can reveal which scenario is true.

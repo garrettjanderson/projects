@@ -16,13 +16,13 @@
  ![bad plot](images/terrible_plot.png)
 
 
- ###### Of course, this is hard to visualize for 800+ characters, so it is useful to show characters from only one House at a time.
+###### Of course, this is hard to visualize for 800+ characters, so it is useful to show characters from only one House at a time.
 
  ![stark family plot](images/stark_network.png)
 
  Additionally, the original data did not include group information (in this case the House allegiance of each character) so a web scraper was created to pull house data for each character from the Game of Thrones [wiki site](http://awoiaf.westeros.org/)
 
- ### Centrality Measures
+### Centrality Measures
 
  | Degree ||Closeness||Betweenness||Eigenvector||Pagerank||
  |---|---|---|---|---|---|---|---|---|---|
@@ -49,6 +49,12 @@
 
  ---
 
- #### Going forward:
- - Compute the deltas in score across books and create a model to try to predict character death
- - Use NLP and sentiment analysis to pull actual dialogue from the books rather than the 15-words-distance
+#### Part 1 Results
+
+  Unfortunately, despite the reputation the books have for featuring an inordinate amount of death, the actual number of __named characters__ killed off per book, who interacted with other characters enough times to have a reasonable number of connections in their graphs, is actually small. This, coupled with the fact that characters killed off in the first 3 books will have virtually no features to predict on, means that it is impossible to accurately use any of the centrality metrics discussed to predict whether a character will be killed, with any statistically significant power.
+
+#### Going Forward
+
+  One of the key issues with the dataset used is the way characters are determined to have interacted. In part 2 of this project, the OA team has asked for a more sophisticated way to show not only the relationships between characters, but also to maintain information about the content of these interactions.
+
+  A method devised for doing this can be found in the presentation for part 2 of this project, linked [here](https://docs.google.com/presentation/d/1YReA1NNMIU-BDNYThvS3PwPi9yYCz4tOro814SpDpaY)
